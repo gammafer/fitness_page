@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100&display=swap');
-
 html{
     box-sizing: border-box;
 }
@@ -20,6 +19,8 @@ body{
 }
 .title{
     padding-left: 90%;
+    font-family: 'Big Shoulders Stencil Text';
+    font-weight: 300;
 }
 .fas{
        font-size: 50px;
